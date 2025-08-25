@@ -1,0 +1,16 @@
+ domain=vdomain
+ client_id=vclientid
+ client_secret=vclientsecret
+  
+  
+
+authname="authname"
+app_type="M2M"
+description="HI"
+is_first_party=true
+oidc_conformant=true
+grant_types= ["client_credentials","refreshToken"]
+client_metadata={}
+CALLBACK_URL="http:\\demo"
+LOGIN_URL="test.com"
+LOGOUT_URL="logout.com"
